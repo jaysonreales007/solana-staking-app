@@ -12,7 +12,7 @@ The built files will be in the `dist` directory.
 2. Browse the list of validators, use the search function to find specific validators, or sort them based on commission or staked amount.
 3. Click the "Stake" button on a validator card to stake your SOL tokens.
 4. View your active stake accounts in the "Your Stake Accounts" section.
-5. Use the "Unstake" button to initiate the unstaking process for active stake accounts.
+5. No "Unstake" functionality for now
 
 ## Contributing
 
